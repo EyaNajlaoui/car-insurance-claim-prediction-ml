@@ -1,7 +1,7 @@
 # car-insurance-claim-prediction-ml
 
 ## Car Insurance Claim Prediction
-A machine learning project to predict whether a policyholder will file an insurance claim based on their profile and vehicle characteristics, with encoding applied according to Binary Features, Ordinal Features, and Nominal Features.
+A machine learning project to predict whether a policyholder will file an insurance claim based on their profile and vehicle characteristics.
 
 ### 📊 Project Overview
 This project tackles the challenge of predicting insurance claims using machine learning techniques. The main focus is on handling class imbalance and optimizing model performance for the minority class (claim predictions).
