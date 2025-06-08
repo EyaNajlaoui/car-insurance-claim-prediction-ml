@@ -74,3 +74,9 @@ Implemented and compared 4 different approaches:
 - Achieved target precision of 80%+ for no claim prediction.
 - Identified most important features for claim prediction.
 - Provided actionable insights for insurance risk assessment.
+### 🛠️ Technologies Used
+
+Python Libraries: pandas, numpy, matplotlib, seaborn
+Machine Learning: scikit-learn, xgboost, random forest, imbalanced-learn
+Sampling Techniques: SMOTE, RandomUnderSampler
+Visualization: matplotlib, seaborn
