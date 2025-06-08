@@ -76,7 +76,7 @@ Implemented and compared 4 different approaches:
 - Provided actionable insights for insurance risk assessment.
 ### 🛠️ Technologies Used
 
-Python Libraries: pandas, numpy, matplotlib, seaborn
-Machine Learning: scikit-learn, xgboost, random forest, imbalanced-learn
-Sampling Techniques: SMOTE, RandomUnderSampler
-Visualization: matplotlib, seaborn
+- Python Libraries: pandas, numpy, matplotlib, seaborn
+- Machine Learning: scikit-learn, xgboost, random forest, imbalanced-learn
+- Sampling Techniques: SMOTE, RandomUnderSampler
+- Visualization: matplotlib, seaborn
